@@ -1,7 +1,4 @@
-- 👋 Hi, I’m LYNK
-- 👀 I usually do some coding in HTML, CSS and JSON.
-- 🌱 Also a Part-Time VTuber.
-- WHOOO KNOWSSS
+Wee
 
 <!---
 ZeldrexK0DE/ZeldrexK0DE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
