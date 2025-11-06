@@ -25,8 +25,11 @@ Here are the places where I’m most active:
 [![](https://img.shields.io/badge/anilist-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/AsterionVT/)
 [![](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/AsterionVT/)
 [![](https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/eomiflmdlgcdqlwzlhrxfbn08?si=5061da71cd4f469d)
+[![](https://img.shields.io/bluesky/followers/asterionvt.kawaii.social?style=for-the-badge)](https://bsky.app/profile/asterionvt.kawaii.social)
+
 
 ## 💖 Support My Work  
 If you like what I’m doing and want to support me, you can do so here:
 
 [![Revolut](https://img.shields.io/badge/revolut-191C1F?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/lynkazoyuu)
+javascript
