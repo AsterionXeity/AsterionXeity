@@ -1,5 +1,5 @@
 Wee
-
+Hi, i love to do random stuff
 <!---
 ZeldrexK0DE/ZeldrexK0DE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -28,8 +28,8 @@ Here are the places where I’m most active:
 [![](https://img.shields.io/bluesky/followers/asterionvt.kawaii.social?style=for-the-badge)](https://bsky.app/profile/asterionvt.kawaii.social)
 
 
-## 💖 Support My Work  
+## 💖 Support Me  
 If you like what I’m doing and want to support me, you can do so here:
 
 [![Revolut](https://img.shields.io/badge/revolut-191C1F?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/lynkazoyuu)
-javascript
+
